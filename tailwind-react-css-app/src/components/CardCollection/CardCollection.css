@@ -1,0 +1,10 @@
+
+.card-collection {
+  @apply 
+    grid 
+    grid-cols-1
+    gap-8 
+    my-12
+    lg:grid-cols-2
+    xl:grid-cols-3;
+}
