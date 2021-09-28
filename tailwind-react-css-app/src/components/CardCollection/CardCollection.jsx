@@ -2,7 +2,7 @@
 import React from 'react'
 import Card from '../Card/Card';
 
-import './CardCollection.css'
+import './CardCollection.scss'
 
 function CardCollection() {
   return (
