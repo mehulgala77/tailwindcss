@@ -11,6 +11,7 @@
 
     .title {
       @apply 
+        font-nissan
         mt-4 
         mb-4 
         text-2xl 
@@ -34,6 +35,9 @@
         py-2 
         rounded-lg 
         text-white 
+        transition
+        ease-out
+        duration-500
         
         hover:bg-red-700;
     }
