@@ -1,0 +1,25 @@
+
+.footer {
+  @apply 
+    flex
+    justify-around
+    my-10;
+
+  .social-link {
+    @apply
+      bg-blue-500     
+      inline-block
+      py-2
+      px-6
+      rounded-full      
+      text-white
+
+      transition
+      ease-out
+      duration-300
+      
+      transform
+      hover:scale-105
+      hover:bg-blue-700;
+  }
+}
