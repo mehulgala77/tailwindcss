@@ -10,7 +10,8 @@ module.exports = {
         xl: '1440px',
         '2xl': '2560px',
       }
-    },fontFamily: {
+    },
+    fontFamily: {
       'nissan': ['Roboto']
     }
   },
